@@ -3,7 +3,7 @@
 public class ContohVariabel08 {
     public static void main(String[]args) {
 
-        String salahSatuHobiSayaAdalah = "Menonton film" ;
+        String salahSatuHobiSayaAdalah = "Menonton film";
         boolean isPandai = true;
         char jenisKelamin = 'L';
         byte _umurSayaSekarang = 20;

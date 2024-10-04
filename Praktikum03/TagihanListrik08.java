@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TagihanListrik08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int penggunaanListrik, tarifListrik, totalPenggunaan, batasPenggunaan, totalTarifListrik;
+        int penggunaanListrik, tarifListrik, batasPenggunaan, totalTarifListrik;
 
         tarifListrik = 1500;
         batasPenggunaan = 500;
